@@ -1,0 +1,30 @@
+.:
+total 104
+drwxr-xr-x 2 root root 4096 Jun 22 08:04 .
+drwxr-xr-x 7 root root  160 Jun 13 06:21 ..
+-rwxr--r-- 1 root root   32 Jun 12 10:10 0-hello_world
+-rwxr--r-- 1 root root   48 Jun 12 11:49 10-no_more_js
+-rwxr--r-- 1 root root   50 Jun 12 11:58 11-directories
+-rwxr--r-- 1 root root   32 Jun 12 12:00 12-newest_files
+-rwxr--r-- 1 root root   27 Jun 12 12:07 13-unique
+-rwxr--r-- 1 root root   39 Jun 12 12:10 14-findthatword
+-rwxr--r-- 1 root root   41 Jun 12 12:15 15-countthatword
+-rwxr--r-- 1 root root   44 Jun 12 12:18 16-whatsnext
+-rwxr--r-- 1 root root   41 Jun 12 12:24 17-hidethisword
+-rwxr--r-- 1 root root   50 Jun 12 12:55 18-letteronly
+-rwxr--r-- 1 root root   36 Jun 12 12:55 19-AZ
+-rwxr--r-- 1 root root   28 Jun 12 10:17 1-confused_smiley
+-rwxr--r-- 1 root root   23 Jun 12 13:03 20-hiago
+-rwxr--r-- 1 root root   16 Jun 12 12:57 21-reverse
+-rwxr--r-- 1 root root   49 Jun 12 13:10 22-users_and_homes
+-rwxr--r-- 1 root root   28 Jun 12 10:22 2-hellofile
+-rwxr--r-- 1 root root   40 Jun 12 10:26 3-twofiles
+-rwxr--r-- 1 root root   36 Jun 12 10:32 4-lastlines
+-rwxr--r-- 1 root root   35 Jun 12 10:52 5-firstlines
+-rwxr--r-- 1 root root   42 Jun 12 11:00 6-third_line
+-rwxr--r-- 1 root root  100 Jun 12 11:32 7-file
+-rwxr--r-- 1 root root   36 Jun 12 11:40 8-cwd_state
+-rwxr--r-- 1 root root   37 Jun 12 11:43 9-duplicate_last_line
+-rw-r--r-- 1 root root   12 Jun 12 11:30 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    7 Jun 12 10:09 README.md
+-rw-r--r-- 1 root root    0 Jun 22 08:04 text.txt
